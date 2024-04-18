@@ -8,4 +8,6 @@ the UAV operations. The solution is implemented on top of
 the Etheruem platform and verified using four different smart
 contract verification tools.
 
+
+This work is published on https://arxiv.org/pdf/2110.14979.pdf 
 The codes can be run on top of the remix IDE. 
